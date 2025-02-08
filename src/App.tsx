@@ -256,8 +256,12 @@ const images = [
               alt: "Nature 1"
             },
             {
-              src: "https://images.unsplash.com/photo-1682687221038-404670f01d03",
+              src: "https://images.unsplash.com/photo-1729398450319-d82ce1579ec6",
               alt: "Nature 2"
+            }
+            {
+              src: "https://images.unsplash.com/photo-1592079927444-590c17e87f28",
+              alt: "Nature 3"
             }
           ]}
         />
